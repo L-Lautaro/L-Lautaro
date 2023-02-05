@@ -91,7 +91,7 @@ buttonSend.addEventListener('click', function () {
     setTimeout(function(){
       interface2.style.display = "none"
       container.style.opacity = 1
-    }, 3000)
+    }, 5000)
   } else {
     console.log("Los datos del cuestionario son incorrectos. Porvafor, verifique sus datos");
     }
